@@ -52,7 +52,7 @@
     <AdditionalEquipmentSlot>Back</AdditionalEquipmentSlot>
     <AdditionalEquipmentSlot>Belt</AdditionalEquipmentSlot>
     <MainBody>
-      <Name>tronco superior</Name>
+      <Name>Tronco superior</Name>
       <BodyPartID>GnomeUpperBody</BodyPartID>
       <MaterialID>StandardBone</MaterialID>
       <ToHitWeight>1</ToHitWeight>
@@ -138,7 +138,7 @@
         <Offset>0 4</Offset>
       </Tile>
       <ConnectsTo>
-        <Name>tronco inferior</Name>
+        <Name>Tronco inferior</Name>
         <BodyPartID>GnomeLowerBody</BodyPartID>
         <MaterialID>StandardBone</MaterialID>
         <ToHitWeight>0.75</ToHitWeight>
